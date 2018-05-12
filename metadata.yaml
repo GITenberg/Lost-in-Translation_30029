@@ -1,0 +1,48 @@
+_repo: Lost-in-Translation_30029
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janifer, Laurence M.
+    aliases:
+    - Harris, Laurence Mark
+    - Logan, William
+    - Janifer, Larry
+    - Harris, Larry M.
+    - Janifer, Laurence Mark
+    birthdate: 1933
+    deathdate: 2002
+    gutenberg_agent_id: '25268'
+    url: http://www.gutenberg.org/2009/agents/25268
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
+description: In language translation, you may get a literally accurate word-for-word
+  translation ... but miss the meaning entirely. And in space-type translation ...
+  the effect may be the same!
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Lost in Translation
+url: http://www.gutenberg.org/ebooks/30029
