@@ -31,6 +31,8 @@ creator:
 description: In language translation, you may get a literally accurate word-for-word
   translation ... but miss the meaning entirely. And in space-type translation ...
   the effect may be the same!
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30029#Lost-in-Translation
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-19'
 gutenberg_type: Text
